@@ -180,4 +180,6 @@ https://onlinegdb.com/L03u7e9qk
 
 output screenshots:<img width="501" height="257" alt="image" src="https://github.com/user-attachments/assets/120b92a1-b980-40e3-b244-c7a995968cd7" />
 
+Explanation video:https://drive.google.com/drive/folders/15zgdwNaLmVENPnHjZN2Oo2GaKIL02X9B
+
 
