@@ -178,7 +178,8 @@ Interactive-Personal-Data-Collector/
 live project link:
 https://onlinegdb.com/L03u7e9qk
 
-output screenshots:<img width="501" height="257" alt="image" src="https://github.com/user-attachments/assets/120b92a1-b980-40e3-b244-c7a995968cd7" />
+output screenshots:<img width="501" height="257" alt="Screenshot 2026-09-30 182433" src="https://github.com/user-attachments/assets/a098f019-ba94-40b7-bed0-de221d92a507" />
+
 
 Explanation video:https://drive.google.com/drive/folders/15zgdwNaLmVENPnHjZN2Oo2GaKIL02X9B
 
